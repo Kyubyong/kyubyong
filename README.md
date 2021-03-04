@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi all,
 
-I'm writing to inform that I'm not allowed to introduce myself as "I work for Kakao Brain." any more. I'm leaving Kakao Brain, where I've put my heart for the last four years, and beginning a new journey on my own. Luckily, I'm not alone on that road not taken. I'm with six great co-founding members--all of them were my team mates at Kakao Brain. We named our startup **TUNiB**, inspired by the popular animation character (https://octonauts.fandom.com/wiki/Tunip_the_Vegimal). We are still at the very early stage, preparing for IR. Please support us as well as Kakao Brain. You can reach us/me at my email: kbpark.linguist@gmail.com until we have the tunib.ai email address ready.
+I'm writing to inform that I'm not allowed to introduce myself as "I work for Kakao Brain." any more. I left Kakao Brain, where I've put my heart for the last four years, and began a new journey on my own. Luckily, I'm not alone on that road not taken. I'm with six great co-founding members--all of them were my team mates at Kakao Brain. We named our startup **TUNiB**, inspired by the popular animation character (https://octonauts.fandom.com/wiki/Tunip_the_Vegimal). We are still at the very early stage, preparing for IR. Please support us as well as Kakao Brain. You can reach us/me at my email: either ryan.ai@tunib.ai or kbpark.linguist@gmail.com.
 
 Best,<br>
 Kyubyong
